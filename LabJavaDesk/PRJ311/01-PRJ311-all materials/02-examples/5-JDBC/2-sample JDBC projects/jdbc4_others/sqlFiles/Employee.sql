@@ -1,0 +1,12 @@
+Create Table Employee (ID varchar(10),Name varchar(30),Salary Float, PRIMARY KEY (ID))
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B02','Tran Hoa', 700)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B03','Nguyen La', 900)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B01','Quoc Canh', 600)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B04','Hoang Cay', 800)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B07','Nguyen Man', 500)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B08','Tran Dao', 900)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B09','Le Thi Thu', 800)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B06','Hoang Cuc', 700)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B05','Nguyen Lan', 700)
+INSERT INTO Employee (ID,Name,Salary) VALUES ('B10','Thu Hong', 800)
+

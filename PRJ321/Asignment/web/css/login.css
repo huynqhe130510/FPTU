@@ -1,0 +1,31 @@
+.containerGroup {
+    background-color: rgb(66, 120, 163);
+    height: 100px;
+}
+
+.form-login{
+    margin-left: 500px;
+    margin-top: 150px;
+    width: 400px;
+    height: 300px;
+    border: 2px;
+    border-radius: 90px;
+}
+
+.form-control{
+    border-radius: 40px;
+}
+
+.border{
+    border: 1px solid #dee2e6!important;
+    border-radius: 30px;
+}
+
+.form{
+    margin: 20px 20px 20px 20px;
+}
+
+.btn-block{
+    border-radius: 40px;
+    height: 40px;
+}

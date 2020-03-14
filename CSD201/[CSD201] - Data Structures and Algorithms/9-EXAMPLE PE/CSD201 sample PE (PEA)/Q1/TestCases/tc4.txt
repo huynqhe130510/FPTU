@@ -1,0 +1,10 @@
+INPUT:
+4
+DATA FILE:
+data.txt
+OUTPUT FILE:
+f4.txt
+CORRECT OUTPUT FILE:
+R_f4.txt
+MARK:
+1

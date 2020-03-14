@@ -1,0 +1,50 @@
+.containerGroup {
+    background-color: rgb(66, 120, 163);
+    height: 100px;
+}
+
+.logout{
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.text-center{
+    margin-top: 300px;
+}
+
+.giohang{
+    margin-top: 150px;
+}
+
+.form-control{
+    width: 400px;
+    margin-left: 150px;
+}
+
+.table{
+    text-align: center;
+    margin-left: 30px;
+}
+
+.buy{
+    margin-left: 650px;
+    margin-top: 30px;
+}
+
+.continue{
+    margin-left: 625px;
+    margin-top: 30px;
+}
+
+#quantity{
+
+}
+
+#t{
+    margin-right: 180px;
+}
+
+#tong{
+    color: red;
+}

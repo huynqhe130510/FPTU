@@ -1,0 +1,2 @@
+javac AppletDemo.java
+pause

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="bootstrap/js/bootstrap.bundle.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+    <title>QHSport</title>
+</head>
+
+<body>
+    <!--Header-->
+    <div class="fixed-top">
+        <div class="containerGroup">
+            <a href="./index.html"><img src="imageFile/logo.jpg" height="100px" width="150px"></a>
+            <div class="search input-group">
+                <input type="text" placeholder="Tìm kiếm" class="form-control inputSearch">
+                <button class="btn btn-success">Tìm kiếm</button>
+            </div>
+        </div>
+        <!--Menu-->
+        <div class="menuGroup ">
+            <nav class="navbar navbar-expand-sm bg-dark justify-content-center">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <button class="nav-link btn btn-outline-warning" href="">Trang chủ</button>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <button class="nav-link dropdown-toggle btn btn-outline-warning" id="item1" data-toggle="dropdown">Áo đội tuyển</button>
+                        <div class="dropdown-menu">
+                            <a href="" class="dropdown-item">Anh</a>
+                            <a href="" class="dropdown-item">Pháp</a>
+                            <a href="" class="dropdown-item">Đức</a>
+                            <a href="" class="dropdown-item">Tây Ban Nha</a>
+                            <a href="" class="dropdown-item">Thêm</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <button class="nav-link dropdown-toggle btn btn-outline-warning" href="" id="item2" data-toggle="dropdown">Áo câu lạc bộ</button>
+                        <div class="dropdown-menu">
+                            <a href="" class="dropdown-item">Manchester United</a>
+                            <a href="" class="dropdown-item">Barcelona</a>
+                            <a href="" class="dropdown-item">Bayern Munchen</a>
+                            <a href="" class="dropdown-item">Real Madrid</a>
+                            <a href="" class="dropdown-item">Thêm</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <button class="nav-link btn btn-outline-warning" href="">Áo không logo</button>
+                    </li>
+                    <li class="nav-item">
+                        <button class="nav-link btn btn-outline-warning" href="">Phụ kiện bóng đá</button>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <!--Banner-->
+    <div id="banner" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+            <li data-target="#banner" data-slide-to="0" class="active"></li>
+            <li data-target="#banner" data-slide-to="1"></li>
+            <li data-target="#banner" data-slide-to="2"></li>
+        </ul>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="imageFile/banner1.jpg" width="100%" height="500">
+            </div>
+            <div class="carousel-item">
+                <img src="imageFile/banner2.jpg" width="100%" height="500">
+            </div>
+            <div class="carousel-item">
+                <img src="imageFile/banner3.jpg" width="100%" height="500">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#banner" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#banner" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+    <!--Content-->
+    <div class="row">
+        <div class="col-6 about-picture">
+            <img class="image" src="imageFile/vietNam.jpg" width="600px" height="450px">
+            <div class="title-of-image">
+                Áo đội tuyển
+                <a href="/ao-doi-tuyen.html" class="btn btn-success">Xem thêm</a>
+            </div>
+        </div>
+        <div class="col-6 about-picture">
+            <img class="image" src="imageFile/ronaldoAndMessi.jpg" width="600px" height="450px">
+            <div class="title-of-image">
+                Áo câu lạc bộ
+                <a class="btn btn-success">Xem thêm</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6 about-picture">
+            <img class="image" src="imageFile/khongLogo.jpg" width="600px" height="450px">
+            <div class="title-of-image">
+                Áo không logo
+                <a class="btn btn-success">Xem thêm</a>
+            </div>
+        </div>
+        <div class="col-6 about-picture">
+            <img class="image" src="imageFile/bong.jpg" width="600px" height="450px">
+            <div class="title-of-image">
+                Phụ kiện bóng đá
+                <a class="btn btn-success">Xem thêm</a>
+            </div>
+        </div>
+    </div>
+
+    <!--Footer-->
+    <footer class="contact">
+        <div class="contact-detail">
+            <br><br> Địa chỉ: ................<br> Email: .................. <br> SĐT:012345678<br><br>
+            <i class="fab fa-facebook-square"></i>
+            <i class="fas fa-envelope-square"></i>
+            <i class="fab fa-youtube-square"></i>
+            <i class="fab fa-instagram"></i>
+            <br><br>
+        </div>
+    </footer>
+
+</body>
+
+</html>

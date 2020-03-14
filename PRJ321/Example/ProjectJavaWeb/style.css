@@ -1,0 +1,80 @@
+    body {
+        background-color: rgb(218, 224, 250)
+    }
+    
+    .search {
+        float: right;
+        width: 300px;
+        margin-top: 30px;
+        margin-right: 20px;
+    }
+    
+    .containerGroup {
+        background-color: rgb(66, 120, 163);
+        height: 100px;
+    }
+    
+    .dropdown-item {
+        background-color: rgb(182, 189, 231)
+    }
+    
+    .carousel-inner img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    #banner {
+        margin-top: 150px;
+    }
+    
+    p {
+        text-align: center;
+        font-size: 50px;
+    }
+    
+    .row {
+        margin: 25px 50px 25px 50px;
+    }
+    
+    .image {
+        border: 0.5px solid rgb(10, 6, 68);
+        border-radius: 10px;
+    }
+    
+    .about-picture:hover img,
+    .about-picture:hover img {
+        filter: brightness(50%) blur(1.5px);
+    }
+    
+    .title-of-image {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 25px;
+        position: absolute;
+        top: 50%;
+        left: 60%;
+        transform: translate(-60%, 100%);
+        color: #fdfdff;
+        opacity: 0;
+        transition: all 0.5s;
+    }
+    
+    .about-picture:hover .title-of-image,
+    .about-picture:active .title-of-image {
+        transform: translate(-60%, -50%);
+        opacity: 1;
+    }
+    
+    .contact {
+        background-color: rgb(15, 15, 73);
+    }
+    
+    .contact-detail {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        color: aliceblue;
+    }
+    
+    i {
+        width: 50px;
+        font-size: 50px;
+    }

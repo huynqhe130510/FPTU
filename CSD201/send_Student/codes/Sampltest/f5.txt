@@ -1,0 +1,10 @@
+The graph is undirected.
+The graph is connected.
+All vertices have even degree.
+Conditions for Euler's cycle are satisfied.
+
+The graph is undirected.
+The graph is connected.
+All vertices have even degree.
+Conditions for Euler's cycle are satisfied.
+

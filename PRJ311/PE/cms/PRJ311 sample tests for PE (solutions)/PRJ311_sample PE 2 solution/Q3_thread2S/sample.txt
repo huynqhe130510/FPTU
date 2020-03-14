@@ -1,0 +1,7 @@
+0 - Flowers Send a gift today.
+1 - From You Flowers offers florist.
+2 - Arrangements for delivery today.
+3 - Simply place your order before 1:00 PM
+4 - Time zone and From You Flowers' guarantees
+5 - Arranged same day flowers will arrive in time
+

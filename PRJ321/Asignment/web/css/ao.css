@@ -1,0 +1,45 @@
+.containerGroup {
+    background-color: rgb(66, 120, 163);
+    height: 100px;
+}
+
+.search {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.ao{
+    margin-top: 150px;
+
+}
+
+.thongke{
+    margin-left: 830px;
+}
+
+.cart{
+    margin-right: 20px;
+    float: right;
+    margin-top: 30px;
+}
+
+.logout{
+    float: right;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.table{
+    width: 80%;
+    margin-left: 145px;
+    text-align: center;
+}
+
+#ten_ao{
+    color: red;
+}
+
+.table_ao{
+    margin-top: 30px;
+}
+

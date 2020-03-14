@@ -1,0 +1,10 @@
+INPUT:
+2
+DATA FILE:
+data.txt
+OUTPUT FILE:
+f2.txt
+CORRECT OUTPUT FILE:
+R_f2.txt
+MARK:
+1

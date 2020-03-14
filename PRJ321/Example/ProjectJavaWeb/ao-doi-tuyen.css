@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(218, 224, 250)
+}
+
+.search {
+    float: right;
+    width: 300px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+.containerGroup {
+    background-color: rgb(66, 120, 163);
+    height: 100px;
+}
+
+.dropdown-item {
+    background-color: rgb(182, 189, 231)
+}
+
+p {
+    margin-left: 100px;
+    font-size: 50px;
+}
+
+.product-list {
+    margin-top: 175px;
+}
+
+.contact {
+    background-color: rgb(15, 15, 73);
+}
+
+.contact-detail {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+i {
+    width: 50px;
+    font-size: 50px;
+}
