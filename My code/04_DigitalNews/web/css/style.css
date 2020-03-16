@@ -1,0 +1,122 @@
+body{
+    background-color: #E7E7E7;
+}
+.boddy{
+    margin: 0 auto;
+    width: 900px;
+    height: auto;
+}
+
+.pre{
+    background: url(../image/preheader.jpg);
+    height: 70px;
+}
+
+.header{
+    background: url(../image/header.jpg);
+    height: 78px;
+    padding-top: -65px;
+    margin-top: -30px;
+}
+
+.header h1{
+    color: white;
+    padding-left: 80px;
+}
+
+.menu{
+    margin-top: -23px;
+    background: url(../image/menu.jpg);
+    height: 30px;
+}
+
+.menu h4{
+    color: white;
+    padding-left: 74px;
+    padding-top: 8px;
+}
+
+.content{
+    display: flex;
+    width: 900px;
+    background: url(../image/bg.jpg);
+    height: auto;
+}
+
+.left{
+    width: 70%;
+    height: auto;
+    margin-left: 62px;
+    padding-right: -17px;
+    margin-right: -142px;
+}
+
+.title{
+    padding-left: 20px; 
+}
+
+.img{
+    width: 58%;
+    padding-left: 20px; 
+}
+
+.text{
+    width: 70%;
+    padding-left: 20px;
+}
+
+.publisher{
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+.right{
+    width: 30%;
+    height: auto;
+    padding-left: 14px;
+    border-left: 2px black dotted;
+}
+
+.lineTitle{
+    padding-top: 10px;
+}
+
+.footer{
+    background: url(../image/footer.jpg);
+    height: 70px;
+}
+
+.error h3{
+    margin-left: -60px;
+}
+
+.result{
+    margin-left: 20px;
+    width: 456px;
+}
+
+.pageNum{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+
+.pageIndex{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.curIndex{
+    color: red;
+}
+
+.error{
+    color: red;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-top: 90px;
+}
+
+.return a{
+    font-size: 30px;
+    margin-left: 200px;
+}

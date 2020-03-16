@@ -1,0 +1,80 @@
+body, html{
+    height: 100%;
+    width: 100%;
+    background: url(../Resources/bg.jpg);
+}
+
+.container{
+    background-color: white;
+    height: auto;
+    width: 700px;
+    border-top-left-radius:  20px;
+    border-top-right-radius: 20px;
+    background-repeat: no-repeat;
+    margin-left: 370px;
+}
+
+.top{
+    width: 700px;
+    height: 19px;
+    background: url(../Resources/top_box.gif);
+}
+
+.menu{
+    background: url("../Resources/menu_bg.gif");
+    width: 663px;
+    height: 51px;
+    margin-left: 18px;
+}
+
+.link{
+    margin-left: 85px;
+    padding-top: 10px;
+}
+
+.link a{
+    font-size: 24px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: brown;
+}
+
+.title{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.content{
+    font-size: 20px;
+    margin-left: 30px;
+    color: cornflowerblue;
+    padding-bottom: 100px;
+}
+
+a{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+.notification{
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 75px;
+    padding-bottom: 100px;
+}
+
+.timer{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+#time{
+    color: red;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+}
