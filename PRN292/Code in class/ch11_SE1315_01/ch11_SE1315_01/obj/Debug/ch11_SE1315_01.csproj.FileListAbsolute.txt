@@ -1,0 +1,9 @@
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\bin\Debug\ch11_SE1315_01.exe.config
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\bin\Debug\ch11_SE1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\bin\Debug\ch11_SE1315_01.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\bin\Debug\StudentLibrary.dll
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\bin\Debug\StudentLibrary.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\obj\Debug\ch11_SE1315_01.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\obj\Debug\ch11_SE1315_01.csproj.CopyComplete
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\obj\Debug\ch11_SE1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch11_SE1315_01\ch11_SE1315_01\obj\Debug\ch11_SE1315_01.pdb

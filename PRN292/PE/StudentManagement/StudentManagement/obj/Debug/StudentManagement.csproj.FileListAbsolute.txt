@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.frmMain.resources
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\PC\Documents\FU Hub\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb

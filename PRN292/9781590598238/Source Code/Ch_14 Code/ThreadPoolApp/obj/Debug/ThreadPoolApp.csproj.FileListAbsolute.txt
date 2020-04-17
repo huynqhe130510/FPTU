@@ -1,0 +1,6 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\ThreadPoolApp\bin\Debug\ThreadPoolApp.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\ThreadPoolApp\obj\Debug\ThreadPoolApp.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\ThreadPoolApp\obj\Debug\ThreadPoolApp.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\ThreadPoolApp\obj\Debug\ThreadPoolApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\ThreadPoolApp\obj\Debug\ThreadPoolApp.pdb

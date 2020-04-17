@@ -1,0 +1,7 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\bin\Debug\CSharpCalculator.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\bin\Debug\CSharpCalculator.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\obj\Debug\CSharpCalculator.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\obj\Debug\CSharpCalculator.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\obj\Debug\CSharpCalculator.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_01 Code\CSharpCalculator\obj\Debug\CSharpCalculator.pdb

@@ -1,0 +1,11 @@
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\obj\Debug\netcoreapp3.0\ch6_SE1315_01.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\obj\Debug\netcoreapp3.0\ch6_SE1315_01.AssemblyInfoInputs.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\obj\Debug\netcoreapp3.0\ch6_SE1315_01.AssemblyInfo.cs
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\bin\Debug\netcoreapp3.0\ch6_SE1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\bin\Debug\netcoreapp3.0\ch6_SE1315_01.deps.json
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\bin\Debug\netcoreapp3.0\ch6_SE1315_01.runtimeconfig.json
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\bin\Debug\netcoreapp3.0\ch6_SE1315_01.runtimeconfig.dev.json
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\bin\Debug\netcoreapp3.0\ch6_SE1315_01.dll
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\bin\Debug\netcoreapp3.0\ch6_SE1315_01.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\obj\Debug\netcoreapp3.0\ch6_SE1315_01.dll
+C:\Users\FPT\Desktop\PRN292\Code in class\ch6_SE1315_01\ch6_SE1315_01\obj\Debug\netcoreapp3.0\ch6_SE1315_01.pdb

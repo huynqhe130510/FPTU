@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:32469/CarOrderService"
+		Name="localhost"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:32469/CarOrderService"
+			BindingConfiguration="BasicHttpBinding_ICarOrder"
+			Contract="CarOrderServiceClient.localhost.ICarOrder"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

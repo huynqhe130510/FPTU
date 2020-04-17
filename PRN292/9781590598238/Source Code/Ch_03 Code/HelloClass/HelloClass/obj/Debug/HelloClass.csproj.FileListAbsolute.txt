@@ -1,0 +1,7 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\bin\Debug\HelloClass.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\bin\Debug\HelloClass.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\obj\Debug\HelloClass.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\obj\Debug\HelloClass.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\obj\Debug\HelloClass.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\obj\Debug\HelloClass.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_03 Code\HelloClass\HelloClass\obj\Debug\HelloClass.pdb

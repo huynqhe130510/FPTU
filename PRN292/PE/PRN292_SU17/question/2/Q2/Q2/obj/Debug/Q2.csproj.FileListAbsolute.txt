@@ -1,0 +1,8 @@
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\obj\Debug\Q2.FunnyButton.resources
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\bin\Debug\Q2.exe
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\bin\Debug\Q2.pdb
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\obj\Debug\Q2.exe
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\2\Q2\Q2\obj\Debug\Q2.pdb

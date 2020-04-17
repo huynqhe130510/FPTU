@@ -1,0 +1,9 @@
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\bin\Debug\ch21_se1315_02.exe.config
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\bin\Debug\ch21_se1315_02.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\bin\Debug\ch21_se1315_02.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\obj\Debug\ch21_se1315_02.Form1.resources
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\obj\Debug\ch21_se1315_02.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\obj\Debug\ch21_se1315_02.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\obj\Debug\ch21_se1315_02.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\obj\Debug\ch21_se1315_02.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch21_se1315_02\ch21_se1315_02\obj\Debug\ch21_se1315_02.csprojAssemblyReference.cache

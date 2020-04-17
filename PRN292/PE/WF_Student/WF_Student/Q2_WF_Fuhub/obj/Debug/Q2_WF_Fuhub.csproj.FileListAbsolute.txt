@@ -1,0 +1,9 @@
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\bin\Debug\Q2_WF_Fuhub.exe.config
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\bin\Debug\Q2_WF_Fuhub.exe
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\bin\Debug\Q2_WF_Fuhub.pdb
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\obj\Debug\Q2_WF_Fuhub.csprojResolveAssemblyReference.cache
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\obj\Debug\Q2_WF_Fuhub.Form1.resources
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\obj\Debug\Q2_WF_Fuhub.Properties.Resources.resources
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\obj\Debug\Q2_WF_Fuhub.csproj.GenerateResource.Cache
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\obj\Debug\Q2_WF_Fuhub.exe
+C:\Users\Q\Documents\Visual Studio 2015\Projects\WF_Student\Q2_WF_Fuhub\obj\Debug\Q2_WF_Fuhub.pdb

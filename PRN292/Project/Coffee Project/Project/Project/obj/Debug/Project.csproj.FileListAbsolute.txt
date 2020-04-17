@@ -1,0 +1,39 @@
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\bin\Debug\Project.exe
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\bin\Debug\Project.pdb
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.exe
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.pdb
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.Profile.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.StaffManager.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.usEmployee.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.ManagerDisplay.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.SaleForm.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.EditDialog.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.ViewImage.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.ListPro.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.formOrderDetail.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Nguyen Quang Anh\Desktop\PRN292\PROJECT\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.exe
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\bin\Debug\Project.exe
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.EditDialog.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.formOrderDetail.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.ListPro.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.ManagerDisplay.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.Profile.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.SaleForm.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.StaffManager.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.usEmployee.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.ViewImage.resources
+C:\Users\FPT\Desktop\PRN292\Project\Coffee Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache

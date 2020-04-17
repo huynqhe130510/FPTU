@@ -1,0 +1,12 @@
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Examples\Question2\Question2\bin\Question2.dll.config
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Examples\Question2\Question2\bin\Question2.dll
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Examples\Question2\Question2\bin\Question2.pdb
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Examples\Question2\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Examples\Question2\Question2\obj\Debug\Question2.dll
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Examples\Question2\Question2\obj\Debug\Question2.pdb
+C:\Users\FPT\Desktop\PRN292\PE\PE_PRN292_20SP_Trial_9871423\Question2\Question2\bin\Question2.dll.config
+C:\Users\FPT\Desktop\PRN292\PE\PE_PRN292_20SP_Trial_9871423\Question2\Question2\bin\Question2.dll
+C:\Users\FPT\Desktop\PRN292\PE\PE_PRN292_20SP_Trial_9871423\Question2\Question2\bin\Question2.pdb
+C:\Users\FPT\Desktop\PRN292\PE\PE_PRN292_20SP_Trial_9871423\Question2\Question2\obj\Debug\Question2.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\PE\PE_PRN292_20SP_Trial_9871423\Question2\Question2\obj\Debug\Question2.dll
+C:\Users\FPT\Desktop\PRN292\PE\PE_PRN292_20SP_Trial_9871423\Question2\Question2\obj\Debug\Question2.pdb

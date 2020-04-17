@@ -1,0 +1,11 @@
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\User_Manage.dll.config
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\User_Manage.dll
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\User_Manage.pdb
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\DAL.dll
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\Entity.dll
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\DAL.pdb
+F:\KI_5\PRN292\User_Manage\User_Manage\bin\Entity.pdb
+F:\KI_5\PRN292\User_Manage\User_Manage\obj\Debug\User_Manage.csprojAssemblyReference.cache
+F:\KI_5\PRN292\User_Manage\User_Manage\obj\Debug\User_Manage.csproj.CopyComplete
+F:\KI_5\PRN292\User_Manage\User_Manage\obj\Debug\User_Manage.dll
+F:\KI_5\PRN292\User_Manage\User_Manage\obj\Debug\User_Manage.pdb

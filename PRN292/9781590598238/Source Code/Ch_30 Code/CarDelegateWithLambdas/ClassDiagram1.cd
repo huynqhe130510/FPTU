@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="CarDelegateWithLambdas.Car">
+    <Position X="0.5" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <FileName>CarTypes.cs</FileName>
+      <HashCode>ABACAQAAIAAAACQJAAAIIIAAAAAAAAAAAAAAAAACAAE=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="CarDelegateWithLambdas.Car.AboutToBlow">
+        <TypeIdentifier>
+          <NewMemberFileName>CarTypes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="CarDelegateWithLambdas.Car.Exploded">
+        <TypeIdentifier>
+          <NewMemberFileName>CarTypes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Class Name="CarDelegateWithLambdas.Car.Radio" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CarTypes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPRN292", "ProjectPRN292\ProjectPRN292.csproj", "{795F6763-2664-4082-9B53-D265554A501B}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "InfiniTea", "InfiniTea\InfiniTea.aiproj", "{91D64EE6-0A78-425F-A776-651ED999C697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795F6763-2664-4082-9B53-D265554A501B}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{795F6763-2664-4082-9B53-D265554A501B}.All|Any CPU.Build.0 = Release|Any CPU
+		{795F6763-2664-4082-9B53-D265554A501B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795F6763-2664-4082-9B53-D265554A501B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795F6763-2664-4082-9B53-D265554A501B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795F6763-2664-4082-9B53-D265554A501B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D64EE6-0A78-425F-A776-651ED999C697}.All|Any CPU.ActiveCfg = DefaultBuild
+		{91D64EE6-0A78-425F-A776-651ED999C697}.All|Any CPU.Build.0 = DefaultBuild
+		{91D64EE6-0A78-425F-A776-651ED999C697}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{91D64EE6-0A78-425F-A776-651ED999C697}.Debug|Any CPU.Build.0 = DefaultBuild
+		{91D64EE6-0A78-425F-A776-651ED999C697}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{91D64EE6-0A78-425F-A776-651ED999C697}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3066B952-9BC3-4EF6-83E5-5A4123AD5ABC}
+	EndGlobalSection
+EndGlobal

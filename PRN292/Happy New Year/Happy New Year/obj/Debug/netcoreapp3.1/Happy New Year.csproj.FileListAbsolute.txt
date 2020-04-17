@@ -1,0 +1,11 @@
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\bin\Debug\netcoreapp3.1\Happy New Year.exe
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\bin\Debug\netcoreapp3.1\Happy New Year.deps.json
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\bin\Debug\netcoreapp3.1\Happy New Year.runtimeconfig.json
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\bin\Debug\netcoreapp3.1\Happy New Year.runtimeconfig.dev.json
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\bin\Debug\netcoreapp3.1\Happy New Year.dll
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\bin\Debug\netcoreapp3.1\Happy New Year.pdb
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\obj\Debug\netcoreapp3.1\Happy New Year.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\obj\Debug\netcoreapp3.1\Happy New Year.AssemblyInfoInputs.cache
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\obj\Debug\netcoreapp3.1\Happy New Year.AssemblyInfo.cs
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\obj\Debug\netcoreapp3.1\Happy New Year.dll
+C:\Users\FPT\Desktop\PRN292\Happy New Year\Happy New Year\obj\Debug\netcoreapp3.1\Happy New Year.pdb

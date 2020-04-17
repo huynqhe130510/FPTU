@@ -1,0 +1,6 @@
+C:\Users\FPT\Desktop\PRN292\Asignment\Lab1-2\Lab1-2\Lab1-2\bin\Debug\Lab1-2.exe.config
+C:\Users\FPT\Desktop\PRN292\Asignment\Lab1-2\Lab1-2\Lab1-2\bin\Debug\Lab1-2.exe
+C:\Users\FPT\Desktop\PRN292\Asignment\Lab1-2\Lab1-2\Lab1-2\bin\Debug\Lab1-2.pdb
+C:\Users\FPT\Desktop\PRN292\Asignment\Lab1-2\Lab1-2\Lab1-2\obj\Debug\Lab1-2.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Asignment\Lab1-2\Lab1-2\Lab1-2\obj\Debug\Lab1-2.exe
+C:\Users\FPT\Desktop\PRN292\Asignment\Lab1-2\Lab1-2\Lab1-2\obj\Debug\Lab1-2.pdb

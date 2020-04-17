@@ -1,0 +1,5 @@
+C:\Users\FPT\Desktop\PRN292\Code in class\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\FPT\Desktop\PRN292\Code in class\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\FPT\Desktop\PRN292\Code in class\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.pdb

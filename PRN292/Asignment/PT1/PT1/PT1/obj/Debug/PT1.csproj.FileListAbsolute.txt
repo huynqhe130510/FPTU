@@ -1,0 +1,9 @@
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\bin\Debug\PT1.exe.config
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\bin\Debug\PT1.exe
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\bin\Debug\PT1.pdb
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\obj\Debug\PT1.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\obj\Debug\PT1.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\obj\Debug\PT1.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\obj\Debug\PT1.exe
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\obj\Debug\PT1.pdb
+C:\Users\FPT\Desktop\PRN292\Asignment\PT1\PT1\obj\Debug\PT1.CreateAccount.resources

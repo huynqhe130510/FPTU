@@ -1,0 +1,5 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\TimerApp\bin\Debug\TimerApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\TimerApp\bin\Debug\TimerApp.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\TimerApp\obj\Debug\TimerApp.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\TimerApp\obj\Debug\TimerApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_14 Code\TimerApp\obj\Debug\TimerApp.pdb

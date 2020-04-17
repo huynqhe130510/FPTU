@@ -1,0 +1,5 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryWatcher\bin\Debug\MyDirectoryWatcher.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryWatcher\obj\Debug\MyDirectoryWatcher.pdb

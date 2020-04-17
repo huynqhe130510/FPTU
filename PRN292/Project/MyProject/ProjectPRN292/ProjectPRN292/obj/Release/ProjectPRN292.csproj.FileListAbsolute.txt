@@ -1,0 +1,15 @@
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\bin\Release\ProjectPRN292.exe.config
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\bin\Release\ProjectPRN292.exe
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\bin\Release\ProjectPRN292.pdb
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.BillDialog.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.LoginGUI.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.MainGUI.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.ProductGUI.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.SalesGUI.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.StaffGUI.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.GUI.StatisticGUI.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.exe
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.pdb
+C:\Users\FPT\Desktop\PRN292\Project\MyProject\ProjectPRN292\ProjectPRN292\obj\Release\ProjectPRN292.csprojAssemblyReference.cache

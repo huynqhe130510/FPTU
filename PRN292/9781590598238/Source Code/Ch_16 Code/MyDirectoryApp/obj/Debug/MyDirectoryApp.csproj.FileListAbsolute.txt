@@ -1,0 +1,4 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryApp\bin\Debug\MyDirectoryApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryApp\bin\Debug\MyDirectoryApp.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryApp\obj\Debug\MyDirectoryApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\MyDirectoryApp\obj\Debug\MyDirectoryApp.pdb

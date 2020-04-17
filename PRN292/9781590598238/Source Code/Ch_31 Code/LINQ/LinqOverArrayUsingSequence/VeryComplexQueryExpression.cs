@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Query;
+
+namespace LinqOverArrayUsingSequence
+{
+    class VeryComplexQueryExpression
+    {
+        public static void QueryStringsWithRawDelegates()
+        {
+            Console.WriteLine("***** Using Raw Delegates *****");
+
+            string[] currentVideoGames = {"Morrowind", "Dead Rising", 
+                                  "Half Life 2: Episode 1", "F.E.A.R.",
+                                  "Daxter", "System Shock 2"};
+
+            // Build the necessary Func<> delegates using anonymous methods.
+            Func<string, bool> searchFilter = new Func<string, bool>(Filter);
+            Func<string, string> itemToProcess = new Func<string,string>(ProcessItem);
+
+            // Pass the delegates into the methods of Sequence.
+            var subset = currentVideoGames
+                .Where(searchFilter).OrderBy(itemToProcess).Select(itemToProcess);
+
+            // Print out the results.
+            foreach (var game in subset)
+                Console.WriteLine("Item: {0}", game);
+            Console.WriteLine();
+        }
+
+        // Delegate targets.
+        public static bool Filter(string s) {return s.Length > 6;}
+        public static string ProcessItem(string s) { return s; }
+    }
+}

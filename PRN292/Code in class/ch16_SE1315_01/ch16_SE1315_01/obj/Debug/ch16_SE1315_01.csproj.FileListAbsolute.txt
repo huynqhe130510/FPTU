@@ -1,0 +1,6 @@
+C:\Users\FPT\Desktop\PRN292\Code in class\ch16_SE1315_01\ch16_SE1315_01\bin\Debug\ch16_SE1315_01.exe.config
+C:\Users\FPT\Desktop\PRN292\Code in class\ch16_SE1315_01\ch16_SE1315_01\bin\Debug\ch16_SE1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch16_SE1315_01\ch16_SE1315_01\bin\Debug\ch16_SE1315_01.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch16_SE1315_01\ch16_SE1315_01\obj\Debug\ch16_SE1315_01.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\ch16_SE1315_01\ch16_SE1315_01\obj\Debug\ch16_SE1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch16_SE1315_01\ch16_SE1315_01\obj\Debug\ch16_SE1315_01.pdb

@@ -1,0 +1,8 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\bin\Debug\CustomInterface.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\bin\Debug\CustomInterface.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\obj\Debug\CustomInterface.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\obj\Debug\CustomInterface.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\obj\Debug\CustomInterface.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\obj\Debug\CustomInterface.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_07 Code\CustomInterface\obj\Debug\CustomInterface.pdb

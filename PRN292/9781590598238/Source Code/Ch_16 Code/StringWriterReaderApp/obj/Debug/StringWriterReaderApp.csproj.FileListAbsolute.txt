@@ -1,0 +1,4 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StringWriterReaderApp\bin\Debug\StringWriterReaderApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StringWriterReaderApp\bin\Debug\StringWriterReaderApp.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StringWriterReaderApp\obj\Debug\StringWriterReaderApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StringWriterReaderApp\obj\Debug\StringWriterReaderApp.pdb

@@ -1,0 +1,5 @@
+bin\Debug\SharedAsmReflector.exe
+bin\Debug\SharedAsmReflector.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SharedAsmReflector.exe
+obj\Debug\SharedAsmReflector.pdb

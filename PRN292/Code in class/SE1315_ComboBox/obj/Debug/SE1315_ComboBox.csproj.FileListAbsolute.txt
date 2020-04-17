@@ -1,0 +1,18 @@
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\bin\Debug\SE1315_ComboBox.exe.config
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\bin\Debug\SE1315_ComboBox.exe
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\bin\Debug\SE1315_ComboBox.pdb
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.csprojAssemblyReference.cache
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.Form1.resources
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.Properties.Resources.resources
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.csproj.GenerateResource.cache
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.exe
+C:\Users\as\OneDrive\Desktop\PRN292(In Class)\Class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\bin\Debug\SE1315_ComboBox.exe.config
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\bin\Debug\SE1315_ComboBox.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\bin\Debug\SE1315_ComboBox.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.Form1.resources
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.csproj.GenerateResource.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\SE1315_ComboBox\obj\Debug\SE1315_ComboBox.pdb

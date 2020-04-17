@@ -1,0 +1,6 @@
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\3\Q3\Q3\bin\Q3.dll.config
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\3\Q3\Q3\bin\Q3.dll
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\3\Q3\Q3\bin\Q3.pdb
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\3\Q3\Q3\obj\Debug\Q3.dll
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\3\Q3\Q3\obj\Debug\Q3.pdb
+C:\Users\FPT\Desktop\PRN292\PE\PRN292_SU17\question\3\Q3\Q3\obj\Debug\Q3.csprojAssemblyReference.cache

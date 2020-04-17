@@ -1,0 +1,5 @@
+<!-- Config database -->
+
+<connectionStrings>
+    <add name="Database" connectionString="Data Source=localhost;Initial Catalog=PRN292_19_Spring;User ID=sa;Password=123456" providerName="System.Data.SqlClient" />
+</connectionStrings>

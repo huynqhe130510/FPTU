@@ -1,0 +1,21 @@
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\bin\Debug\ch19_se1315_01.exe.config
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\bin\Debug\ch19_se1315_01.exe
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\bin\Debug\ch19_se1315_01.pdb
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.Form1.resources
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.Properties.Resources.resources
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.exe
+C:\Users\Asus\Desktop\PRN292\Examples\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.pdb
+C:\Users\FPT\Desktop\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.exe
+C:\Users\FPT\Desktop\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.csprojAssemblyReference.cache
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_se1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_SE1315_01\ch19_se1315_01\bin\Debug\ch19_se1315_01.exe.config
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_SE1315_01\ch19_se1315_01\bin\Debug\ch19_se1315_01.exe
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_SE1315_01\ch19_se1315_01\bin\Debug\ch19_se1315_01.pdb
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_SE1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.Form1.resources
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_SE1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.Properties.Resources.resources
+C:\Users\FPT\Desktop\PRN292\Code in class\ch19_SE1315_01\ch19_se1315_01\obj\Debug\ch19_se1315_01.csproj.GenerateResource.cache

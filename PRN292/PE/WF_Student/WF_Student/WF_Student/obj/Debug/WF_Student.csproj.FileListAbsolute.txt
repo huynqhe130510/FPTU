@@ -1,0 +1,9 @@
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\bin\Debug\WF_Student.exe.config
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\bin\Debug\WF_Student.exe
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\bin\Debug\WF_Student.pdb
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\obj\Debug\WF_Student.csprojResolveAssemblyReference.cache
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\obj\Debug\WF_Student.Form1.resources
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\obj\Debug\WF_Student.Properties.Resources.resources
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\obj\Debug\WF_Student.csproj.GenerateResource.Cache
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\obj\Debug\WF_Student.exe
+c:\users\q\documents\visual studio 2015\Projects\WF_Student\WF_Student\obj\Debug\WF_Student.pdb

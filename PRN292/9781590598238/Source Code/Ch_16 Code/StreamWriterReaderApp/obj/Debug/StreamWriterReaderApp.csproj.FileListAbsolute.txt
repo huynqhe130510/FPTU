@@ -1,0 +1,5 @@
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StreamWriterReaderApp\bin\Debug\StreamWriterReaderApp.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.exe
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.pdb
+C:\Users\FPT\Desktop\PRN292\9781590598238\Source Code\Ch_16 Code\StreamWriterReaderApp\obj\Debug\StreamWriterReaderApp.csprojAssemblyReference.cache

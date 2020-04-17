@@ -1,0 +1,6 @@
+C:\Users\FPT\Desktop\Group6_Lab4\Group6_Lab4\bin\Group6_Lab4.dll.config
+C:\Users\FPT\Desktop\Group6_Lab4\Group6_Lab4\bin\Group6_Lab4.dll
+C:\Users\FPT\Desktop\Group6_Lab4\Group6_Lab4\bin\Group6_Lab4.pdb
+C:\Users\FPT\Desktop\Group6_Lab4\Group6_Lab4\obj\Debug\Group6_Lab4.dll
+C:\Users\FPT\Desktop\Group6_Lab4\Group6_Lab4\obj\Debug\Group6_Lab4.pdb
+C:\Users\FPT\Desktop\Group6_Lab4\Group6_Lab4\obj\Debug\Group6_Lab4.csprojAssemblyReference.cache

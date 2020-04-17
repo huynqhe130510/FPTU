@@ -1,0 +1,7 @@
+.\bin\Debug\SimpleDelegate.exe
+.\bin\Debug\SimpleDelegate.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleDelegate.Properties.Resources.resources
+obj\Debug\SimpleDelegate.csproj.GenerateResource.Cache
+obj\Debug\SimpleDelegate.exe
+obj\Debug\SimpleDelegate.pdb
